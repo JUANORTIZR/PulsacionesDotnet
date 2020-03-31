@@ -19,8 +19,10 @@ export class PersonaRegistroComponent implements OnInit {
   add(){
     this.personaService.post(this.persona).subscribe(p => {
       if(p!=null){
-        alert('Persona creada!');
+        alert('Persona creada!'+" Sus pulsaciones son: "+p.pulsacion);
         this.persona = p;
+      }else{
+        alert("La identificacion que intentas registrar ya se encuntra en uso");
       }
     });
   }
