@@ -17,12 +17,12 @@
 
     <div class="form-group">
         <label for="formGroupExampleInput">Edad</label>
-        <input type="text" class="form-control" name="edad" [(ngModel)]="persona.edad" id="formGroupExampleInput" placeholder="Escribe aquí tu edad">
+        <input type="number" class="form-control" name="edad" [(ngModel)]="persona.edad" id="formGroupExampleInput" placeholder="Escribe aquí tu edad">
     </div>
 
     <div class="form-group">
         <label for="formGroupExampleInput">Pulsaciones</label>
-        <input type="text" class="form-control" name="pulsacion" [(ngModel)]="persona.pulsacion" id="formGroupExampleInput" placeholder="Pulsacion">
+        <input type="number" class="form-control" name="pulsacion" [(ngModel)]="persona.pulsacion" id="formGroupExampleInput" placeholder="Pulsacion">
     </div>
 
     <button type="button" class="btn btn-success" (click)="add()">Registrar</button>

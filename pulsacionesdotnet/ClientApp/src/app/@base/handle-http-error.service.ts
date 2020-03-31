@@ -9,7 +9,7 @@ export class HandleHttpErrorService {
   constructor() { }
   public handleError<T>(operation = 'operation', result?: T) {
     return (error: any): Observable<T> => {
-      console.error(error);
+      console.log(error);
       return of(result as T);
     };
   }

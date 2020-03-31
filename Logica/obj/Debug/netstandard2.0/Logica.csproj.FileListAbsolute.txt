@@ -1,0 +1,13 @@
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\bin\Debug\netstandard2.0\Logica.dll
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\bin\Debug\netstandard2.0\Logica.pdb
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\bin\Debug\netstandard2.0\Datos.dll
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\bin\Debug\netstandard2.0\Entity.dll
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\bin\Debug\netstandard2.0\Entity.pdb
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\bin\Debug\netstandard2.0\Datos.pdb
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\obj\Debug\netstandard2.0\Logica.dll
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Logica\obj\Debug\netstandard2.0\Logica.pdb

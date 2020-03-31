@@ -1,0 +1,11 @@
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\bin\Debug\netstandard2.0\Datos.dll
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\bin\Debug\netstandard2.0\Datos.pdb
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\bin\Debug\netstandard2.0\Entity.dll
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\bin\Debug\netstandard2.0\Entity.pdb
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\obj\Debug\netstandard2.0\Datos.dll
+c:\Users\JUAN CARLOS\Universidad\Programacion web\PulsacionesDotnet1\Datos\obj\Debug\netstandard2.0\Datos.pdb
